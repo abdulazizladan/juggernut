@@ -1,6 +1,6 @@
 ***Juggernaut website***
 
-- [ ] Only Juggernaut Logo at home screen and remove the slide show 
+- [X] Only Juggernaut Logo at home screen and remove the slide show 
 - [X] Increase font size of texts  
 - [X] Make Logo at top left  corner much bigger 
 - [X] Activities tab doesn’t make it seem like u can click it , add a drop down menu to activities 
